@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn[standard]
+motor
+pymongo
+python-multipart
+Pillow
+opencv-python-headless
+python-dotenv
+requests
+aiofiles
+pydantic[email]
+numpy
+passlib[bcrypt]
+python-jose[cryptography]
